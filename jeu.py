@@ -1,3 +1,4 @@
 def jouer(self):
     """Une fonction pour jouer au jeu. """
-    while True:
+    jeu_en_cours = True
+    while jeu_en_cours:
